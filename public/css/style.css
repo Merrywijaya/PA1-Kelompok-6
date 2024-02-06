@@ -1,0 +1,18 @@
+.jdl {
+  text-align: center;
+  padding-top: 200px;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 50px;
+}
+.judul {
+  padding-top: 100px;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+  padding-left: 2rem;
+}
+.desk {
+  font-size: 20px;
+  padding-left: 3rem;
+  font-family: "Times New Roman", Times, serif;
+}
